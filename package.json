@@ -19,5 +19,8 @@
 		"freecodecamp"
 	],
 	"author": "Benjamin Semah",
-	"license": "MIT"
+	"license": "MIT",
+	"engines": {
+		"node": "16.15.0"
+	}
 }
