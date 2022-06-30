@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
+	"description": "This app is for learning node and express.",
 	"dependencies": {
 		"express": "^4.14.0",
 		"body-parser": "^1.15.2",
@@ -10,5 +11,13 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
-	}
+	},
+	"keywords": [
+		"node",
+		"express",
+		"heroku",
+		"freecodecamp"
+	],
+	"author": "Benjamin Semah",
+	"license": "MIT"
 }
